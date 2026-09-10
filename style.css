@@ -329,3 +329,19 @@ footer {
     }
 
 }
+/* เกียรติบัตร */
+
+.cert {
+    text-align: center;
+}
+
+
+.cert img {
+
+    width: 100%;
+
+    border-radius: 15px;
+
+    border: 2px solid #ffc4dc;
+
+}
